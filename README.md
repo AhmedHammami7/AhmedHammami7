@@ -29,7 +29,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 - 🔭 I’m currently working as an Intern in a web development company! 😊
-- 🌱 I’m currently learning Angular JS / Node JS / MongoDB 🥰
+- 🌱 I’m currently learning Angular JS / Node JS / MongoDB 🥰 & trying to create my own compiler and editor.
 - 👯 I’m looking to collaborate with any **Open - Source projects**
 - 💬 Ask me about Computer Science, Programming & Cryptography, If I am alive I will answer within seconds 😉 <a href="https://github.com/AhmedHammami7/AhmedHammami7/issues/new"> here</a>
 - 😄 Pronouns: he/him
