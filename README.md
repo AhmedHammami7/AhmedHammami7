@@ -22,9 +22,8 @@
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
-<br><br>
-
-
+<br>
+<hr>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
@@ -34,8 +33,9 @@
 - 👯 I’m looking to collaborate with any **Open - Source projects**
 - 💬 Ask me about Computer Science, Programming & Cryptography, If I am alive I will answer within seconds 😉 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute! 😎 <br><br><br><br>
- 
+- ⚡ Fun fact: I can solve a Rubik's cube in under a minute! 😎 <br><br>
+
+<hr>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
@@ -47,20 +47,17 @@
   <img height="50" src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png>
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c++.svg">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg">
+  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/angular.svg">  
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg">
+  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/npm.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/oracle.svg">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg">
+<br>
   <hr>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me...***
@@ -71,10 +68,8 @@
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/ahmed-hammami7)
 [<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" />](https://www.facebook.com/ahmed.hammami.99)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/ahmed_hammami_7)
-[<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:ahmedhammami377@gmail.com)
 
 </p>
-
 
 
 <p align="center">
