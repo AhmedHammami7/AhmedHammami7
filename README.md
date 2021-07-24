@@ -5,7 +5,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Age-22-blue" />
-  <img src="https://img.shields.io/badge/Focus-Cyber%20Security-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Cyber%20Security%20%26%20Web%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Tunisia-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20French%20%26%20Arabic%20%26%20Spanish-brightgreen" />
 </p>
@@ -50,9 +50,26 @@
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <hr>
-  
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me: ***
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/themlphdstudent)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/ahmed-hammami7/)
+[<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
+
+</p>
+
+
+
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedHammami7&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AhmedHammami7&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
+
+
