@@ -3,34 +3,26 @@
 </p>
 <br>
 
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
- </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-26-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+<p align="center">
+<img src="https://img.shields.io/badge/Age-22-blue" />
+  <img src="https://img.shields.io/badge/Focus-Cyber%20Security-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Tunisia-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20French%20%26%20Arabic%20%26%20Spanish-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ahmed Hammami </h1>
-### Hi there 👋
 
-<!--
-**AhmedHammami7/AhmedHammami7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-- 🔭 I’m currently working as Intern in a web development company!
-- 🌱 I’m currently learning Angular JS / Node JS / MongoDB
+- 🔭 I’m currently working as an Intern in a web development company! 😊
+- 🌱 I’m currently learning Angular JS / Node JS / MongoDB 🥰
 - 👯 I’m looking to collaborate with any **Open - Source projects**
 - 💬 Ask me about Computer Science, Programming & Cryptography, If I am alive I will answer within seconds 😉 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!<br><br><br><br>
+- ⚡ Fun fact: I can solve a Rubik's cube in under a minute! 😎 <br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
@@ -58,8 +50,7 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+  
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedHammami7&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
