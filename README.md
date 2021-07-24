@@ -31,7 +31,7 @@
 - 🔭 I’m currently working as an Intern in a web development company! 😊
 - 🌱 I’m currently learning Angular JS / Node JS / MongoDB 🥰
 - 👯 I’m looking to collaborate with any **Open - Source projects**
-- 💬 Ask me about Computer Science, Programming & Cryptography, If I am alive I will answer within seconds 😉 
+- 💬 Ask me about Computer Science, Programming & Cryptography, If I am alive I will answer within seconds 😉 <a href="https://github.com/AhmedHammami7/AhmedHammami7/issues/new"> here</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute! 😎 <br><br>
 
@@ -68,6 +68,8 @@
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/ahmed-hammami7)
 [<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" />](https://www.facebook.com/ahmed.hammami.99)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/ahmed_hammami_7)
+[<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:ahmedhammami377@gmail.com)
+
 
 </p>
 
