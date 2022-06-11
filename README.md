@@ -16,7 +16,7 @@
 <p align="center">
   <em>
     Hello, I am Ahmed Hammami a <b>Computer Science Enginnering Student </b> at the <a href="http://www.fst.rnu.tn"> <b> FST</b>,<a href="http://www.utm.rnu.tn/utm/fr/"> <b> University Of Tunis El Manar </b>,Tunisia</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"  height="30px" width="30px"> and a <b>Web developer & designer </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="36px" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"  height="30px" width="30px"> and a <b>Web developer & designer </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="30px" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Problem Solving</b> and <b>Cryptography</b>.
   </em> 
   <br>
@@ -26,7 +26,7 @@
 <hr>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px">&nbsp;***About me ....***
 
 - 🔭 I’m currently working as an Intern in a web development company! 😊
 - 🌱 I’m currently learning Angular JS / Node JS / MongoDB 🥰 & trying to create my own compiler and editor.
@@ -37,7 +37,7 @@
 
 <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg">
@@ -61,7 +61,7 @@
 <br>
   <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px">&nbsp;***Connect with me...***
 
 <p align = "center">
   
