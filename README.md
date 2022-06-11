@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Languages-English,%20French,%20Arabic,%20%26%20Spanish-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ahmed Hammami </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">, I am Ahmed Hammami </h1>
 
 
 <p align="center">
