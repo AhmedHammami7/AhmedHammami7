@@ -134,7 +134,7 @@ public class AhmedHammami
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,mongodb" />
 </p>
 
 ---
