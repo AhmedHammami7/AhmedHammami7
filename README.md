@@ -26,11 +26,11 @@
 
 <p align="center">
   <em>
-    Full-Stack Software Engineer specialized in 
-    <b>C#/.NET, ASP.NET Core, Angular, TypeScript, backend architecture, asynchronous systems, and DevOps pipelines</b>.
+    Full-Stack Software Engineer focused on 
+    <b>.NET backend engineering, Angular, DevOps, and AI engineering</b>.
     <br>
-    I enjoy building reliable software with strong attention to 
-    <b>performance, concurrency, memory behavior, networking, distributed patterns, and clean architecture</b>.
+    Interested in 
+    <b>high-performance backends, async pipelines, distributed patterns, communication layers, and AI agents</b>.
   </em>
 </p>
 
@@ -52,56 +52,6 @@
 - 🤖 I’m actively interested in **Artificial Intelligence, AI agents, LLM-powered applications, automation, and building practical AI tools for developers and real-world workflows**.
 - 🏎️ Long-term, I’m interested in connecting software engineering with advanced domains such as **Formula 1, simulations, optimization, and high-performance systems**.
 - ⚡ Fun fact: I can solve a **Rubik’s cube in under a minute**.
-
----
-
-## 🧠 Backend Engineering Focus
-
-```csharp
-public class AhmedHammami
-{
-    public string Role => "Full-Stack Software Engineer";
-
-    public string[] CoreStack => new[]
-    {
-        "C#",
-        ".NET",
-        "ASP.NET Core",
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "SQL",
-        "Docker",
-        "Kubernetes",
-        "CI/CD"
-    };
-
-    public string[] BackendDepth => new[]
-    {
-        "ASP.NET Core Middleware Pipeline",
-        "Filters and Request Processing",
-        "Dependency Injection",
-        "Authentication and Authorization",
-        "Async/Await",
-        "Task Parallel Library",
-        "Concurrent Processing",
-        "Memory Management",
-        ".NET Garbage Collector",
-        "Gen0 / Gen1 / Gen2",
-        "Large Object Heap",
-        "Network APIs",
-        "HTTP Communication",
-        "WebSockets",
-        "Event-Driven Architecture",
-        "Kafka-like Patterns",
-        "Buffering and Queues",
-        "Background Services"
-    };
-
-    public string CurrentFocus =>
-        "Building scalable backend systems, AI-powered tools, and production-ready distributed applications.";
-}
-```
 
 ---
 
@@ -134,7 +84,8 @@ public class AhmedHammami
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,mongodb" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="45" />
 </p>
 
 ---
@@ -143,6 +94,21 @@ public class AhmedHammami
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,azure,docker,kubernetes,jenkins,linux,terraform,ansible,prometheus" />
+</p>
+
+---
+
+### AI, LLMs & ML
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="45" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge&logo=readme&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/AI%20Agents-2563EB?style=for-the-badge&logo=robotframework&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=protocols.io&logoColor=white" height="45" />
 </p>
 
 ---
@@ -165,9 +131,10 @@ I’m especially interested in building backend systems that go beyond CRUD appl
 - Building advanced **.NET backend systems** with clean architecture and strong runtime understanding.
 - Designing **high-throughput asynchronous processing pipelines**.
 - Improving skills in **memory management, garbage collection, concurrency, and performance profiling**.
-- Building **AI agent projects** and practical LLM-powered developer tools.
-- Learning more about **DevOps, CI/CD, containerization, Kubernetes, infrastructure automation, and monitoring**.
-- Creating strong portfolio projects that demonstrate real engineering depth, not just CRUD applications.
+- Building practical **AI agent systems** using LLM APIs, tool calling, memory, RAG, MCP, and multi-step reasoning.
+- Learning the foundations of **ML engineering**, including Python, NumPy, Pandas, model evaluation, embeddings, Hugging Face, and deployment.
+- Learning more about **DevOps, CI/CD, containerization, Kubernetes, infrastructure automation, monitoring, and LLMOps**.
+- Creating strong portfolio projects that demonstrate backend depth, AI engineering, and production-ready software design.
 
 
 ## 📚 What I’m Learning
@@ -177,10 +144,12 @@ I’m especially interested in building backend systems that go beyond CRUD appl
 - Performance-oriented backend development
 - Distributed systems fundamentals
 - Event-driven architecture
+- AI engineering with **LLMs, RAG, embeddings, tool calling, memory, MCP, and AI agents**
+- ML foundations with **Python, NumPy, Pandas, scikit-learn, model evaluation, and deployment**
 - DevOps and cloud-native workflows
-- AI agents and LLM-powered applications
+- LLMOps, monitoring, logging, evaluation, and production AI systems
 - Clean architecture and software design patterns
-- System design for backend engineers
+- System design for backend and AI engineers
 
 ---
 
