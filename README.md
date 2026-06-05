@@ -60,7 +60,7 @@
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,ts,js,python,java,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,python,java" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,spring" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap" />
 </p>
 
 ---
@@ -93,7 +93,7 @@
 ### DevOps, Cloud & CI/CD
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,azure,docker,kubernetes,jenkins,linux,terraform,ansible,prometheus" />
+  <img src="https://skillicons.dev/icons?i=git,github,azure,aws,docker,kubernetes,jenkins,linux,terraform,ansible,prometheus" />
 </p>
 
 ---
@@ -113,11 +113,11 @@
 
 ---
 
-## ⚙️ Advanced .NET & Backend Engineering
+## ⚙️ Engineering Focus
 
-I’m especially interested in building backend systems that go beyond CRUD applications, with focus on:
+I’m focused on backend systems that go beyond CRUD applications, with strong interest in **.NET internals, performance, concurrency, communication layers, distributed patterns, and production-ready architecture**.
 
-- **ASP.NET Core internals:** middleware, filters, DI, request lifecycle, authentication, authorization, configuration, logging, and observability.
+- **ASP.NET Core:** middleware, filters, DI, request lifecycle, authentication, authorization, configuration, error handling, logging, and observability.
 - **Runtime performance:** GC behavior, Gen0/Gen1/Gen2, LOH, allocation pressure, memory profiling, buffer reuse, and runtime behavior under load.
 - **Async and concurrency:** async/await, Task, ValueTask, TPL, ThreadPool, cancellation, background workers, synchronization, and avoiding deadlocks or thread starvation.
 - **High-throughput pipelines:** producer/consumer models, queues, channels, buffering, backpressure, parallel processing, and CPU-bound vs I/O-bound workloads.
@@ -126,46 +126,25 @@ I’m especially interested in building backend systems that go beyond CRUD appl
 
 ---
 
-## 🚀 Current Interests
+## 🚀 Current Roadmap
 
-- Building advanced **.NET backend systems** with clean architecture and strong runtime understanding.
-- Designing **high-throughput asynchronous processing pipelines**.
-- Improving skills in **memory management, garbage collection, concurrency, and performance profiling**.
-- Building practical **AI agent systems** using LLM APIs, tool calling, memory, RAG, MCP, and multi-step reasoning.
-- Learning the foundations of **ML engineering**, including Python, NumPy, Pandas, model evaluation, embeddings, Hugging Face, and deployment.
-- Learning more about **DevOps, CI/CD, containerization, Kubernetes, infrastructure automation, monitoring, and LLMOps**.
-- Creating strong portfolio projects that demonstrate backend depth, AI engineering, and production-ready software design.
+I use GitHub to document my learning path and build portfolio projects around **.NET backend engineering, Angular, DevOps, AI agents, ML foundations, and performance-oriented software design**.
 
-
-## 📚 What I’m Learning
-
-- Advanced **C# and .NET internals**
-- ASP.NET Core request pipeline
-- Performance-oriented backend development
-- Distributed systems fundamentals
-- Event-driven architecture
-- AI engineering with **LLMs, RAG, embeddings, tool calling, memory, MCP, and AI agents**
-- ML foundations with **Python, NumPy, Pandas, scikit-learn, model evaluation, and deployment**
-- DevOps and cloud-native workflows
-- LLMOps, monitoring, logging, evaluation, and production AI systems
-- Clean architecture and software design patterns
-- System design for backend and AI engineers
-
+- Building advanced **.NET backend systems** with clean architecture, strong runtime understanding, and production-ready design.
+- Designing **high-throughput asynchronous processing pipelines** and event-driven systems.
+- Improving skills in **memory management, garbage collection, concurrency, performance profiling, and observability**.
+- Building practical **AI agent systems** using LLM APIs, tool calling, memory, RAG, embeddings, MCP, multi-step reasoning, monitoring, logging, evaluation, and LLMOps.
+- Learning **ML engineering foundations** with Python, NumPy, Pandas, scikit-learn, model evaluation, Hugging Face, and deployment.
+- Growing in **DevOps and cloud-native workflows**, including CI/CD, containerization, Kubernetes, infrastructure automation, monitoring, and production system design.
+- Creating projects around **advanced .NET backends, Angular/full-stack apps, AI-powered developer tools, DevOps workflows, simulation, optimization, and performance-oriented services**.
 ---
 
-## 📊 GitHub Activity
+## 🧩 LeetCode
 
-I use GitHub to document my learning path, build portfolio projects, and share work around **.NET backend engineering**, **Angular**, **DevOps**, **AI agents**, and **high-performance software design**.
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ahmedhammami?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
-You can explore my repositories to see projects related to:
-
-- Advanced .NET backend systems
-- Angular and full-stack applications
-- AI-powered developer tools
-- DevOps and CI/CD workflows
-- Simulation, optimization, and performance-oriented software
-
----
 
 ## 📫 Connect With Me
 
