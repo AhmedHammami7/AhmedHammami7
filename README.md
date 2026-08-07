@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Lives-Tunisia-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lives-France-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Languages-English%20%7C%20French%20%7C%20Arabic%20%7C%20Spanish-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to-.NET%20%7C%20Angular%20%7C%20Backend%20Roles-blueviolet?style=flat-square" />
 </p>
